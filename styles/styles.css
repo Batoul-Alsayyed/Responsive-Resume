@@ -1,7 +1,9 @@
 
   * {
 	box-sizing: border-box;
-  }
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-size-adjust: 10px;  
+}
   
   /* Style the body */
   body {
@@ -65,4 +67,9 @@
 	background-color: #ddd;
 	color: black;
   }
-  
+  p.solid {
+    border-style: solid;
+    border-width: 1px;
+  }
+
+ 
